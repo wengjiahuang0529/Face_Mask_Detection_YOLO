@@ -3,7 +3,7 @@
 
 This is the Deep Learning Project about face mask detecting.
 
-Yolov8 and Yolov5 - Custom-Object-Detetction.
+By utilizing Yolov8 and Yolov5 for custom object detection, we will compare their performance and differences.
 
 Dataset from kaggle : https://www.kaggle.com/datasets/maalialharbi/face-mask-dataset?resource=download
 
